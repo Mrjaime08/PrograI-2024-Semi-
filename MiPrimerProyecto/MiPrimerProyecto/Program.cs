@@ -10,10 +10,17 @@ namespace MiPrimerProyecto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola, mundo!");
-            // Pausa el programa para que la consola no se cierree inmediatamente 
-            Console.WriteLine("Presiona cualquier tecla para salir... ");
-            Console.ReadKey();
+            Console.Write("Num1: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Num 2: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            int respuesta = num1 + num2;
+            Console.WriteLine("La suma de {0} + {1} = {2}", num1, num2, respuesta);
+
+            //Pausa.
+            Console.ReadLine();
         }
     }
 }
