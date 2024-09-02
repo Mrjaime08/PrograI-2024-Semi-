@@ -1,23 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace MiPrimerProyecto
+namespace miPrimerProyecto
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            //determinar si cada numero de la serie es para o impar.
-            int[] serie = new int[] { 5, 9, 4, 6, 3, 2 };
             //determinar si cada numero de la serie es primo.
 
-            serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
+            int[] serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
             foreach (int num in serie)
             {
-                Console.WriteLine("El num {0} es {1}", num, num % 2 == 0 ? "Par" : "Impar");
                 int i = 1,
                     n = 0;
                 while (i <= num && n <= 2)
@@ -30,10 +27,15 @@ namespace MiPrimerProyecto
                 }
                 Console.WriteLine("EL numero {0} {1}", num, n <= 2 ? "es primo" : "NO es primo");
             }
+            //Uso de funciones...
+            Console.WriteLine("La suma de 10+5={0}", suma());
+
             Console.ReadLine();
-
-
         }
+        static int suma()
+        {
+            int respuesta = 10 + 5;
+            return respuesta;
         }
     }
-
+}
