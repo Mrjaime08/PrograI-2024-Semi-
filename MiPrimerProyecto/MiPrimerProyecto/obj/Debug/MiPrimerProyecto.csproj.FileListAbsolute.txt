@@ -5,3 +5,10 @@ C:\Users\Jaime Segovia\Desktop\PrograI-semi-2024\MiPrimerProyecto\MiPrimerProyec
 C:\Users\Jaime Segovia\Desktop\PrograI-semi-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\Jaime Segovia\Desktop\PrograI-semi-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
 C:\Users\Jaime Segovia\Desktop\PrograI-semi-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\Jaime Segovia\Desktop\repo\PrograI-2024-Semi-\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb

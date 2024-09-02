@@ -14,7 +14,7 @@ namespace MiPrimerProyecto
             int[] serie = new int[] { 5, 9, 4, 6, 3, 2 };
             //determinar si cada numero de la serie es primo.
 
-            int[] serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
+            serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
             foreach (int num in serie)
             {
                 Console.WriteLine("El num {0} es {1}", num, num % 2 == 0 ? "Par" : "Impar");
